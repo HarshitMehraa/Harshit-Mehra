@@ -9,5 +9,5 @@ I’m passionate about growing in my career, picking up new tech skills:
 LinkedIn
 
 💻 Tech Stack:
-Excel VBA Power Bi MySQL  git commit -m "Updated Python visualization code"
+Excel VBA Power Bi MySQL
 
